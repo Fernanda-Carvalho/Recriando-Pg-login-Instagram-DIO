@@ -1,2 +1,3 @@
-# r.indexAdm
-Teste na criação de um repositório 
+ repositório com desafios propostos
+ pela DIO
+
